@@ -161,7 +161,7 @@ export default function Home() {
           <div className="footer-links">
             <Link to="/shop" className="footer-link">Shop</Link>
             <a href="https://wa.me/917780140507" target="_blank" rel="noopener" className="footer-link">WhatsApp</a>
-            <a href="https://instagram.com" target="_blank" rel="noopener" className="footer-link">Instagram</a>
+            <a href="https://www.instagram.com/_thejacketroom/" target="_blank" rel="noopener" className="footer-link">Instagram</a>
           </div>
           <p className="footer-copy">© 2024 The Jacket Room. Hyderabad.</p>
         </div>
